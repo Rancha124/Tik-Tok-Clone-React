@@ -1,0 +1,12 @@
+.video-sidebar{
+    position: absolute;
+    top: 35%;
+    right: 10px;
+    display: block;
+    color: white;
+    
+}
+.sideBar-icon{
+    padding: 5px;
+    text-align: center;
+}
